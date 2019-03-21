@@ -15,8 +15,7 @@ Friend Finder is deployed to Heroku.
 **Running Locally**
 LOCALHOST:7070
 
-
-![Uploading Screen Shot 2019-03-21 at 4.12.51 AM.png…]()
+<img width="716" alt="Screen Shot 2019-03-21 at 4 12 51 AM" src="https://user-images.githubusercontent.com/44978024/54739833-cfc96680-4b8f-11e9-805f-7321e946aa34.png">
 
 
 
