@@ -6,6 +6,8 @@ Friend Finder implements friend matching based on the user's responses to a ten 
 **Demo**
 Friend Finder is deployed to Heroku.
 
+https://friend-finder-node-express-dp.herokuapp.com/
+
 **Technology**
 
 -Node.js
