@@ -7,8 +7,8 @@ Friend Finder implements friend matching based on the user's responses to a ten 
 Friend Finder is deployed to Heroku.
 
 **Technology**
--Node.js
--Express
+1.Node.js
+2.Express
 
 **Running Locally**
 LOCALHOST:7070
