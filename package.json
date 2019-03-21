@@ -1,0 +1,25 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "node and server exercise",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DianaPachon/FriendFinder.git"
+  },
+  "author": "Diana Pachon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DianaPachon/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/DianaPachon/FriendFinder#readme",
+  "dependencies": {
+    "app": "^0.1.0",
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
+}
